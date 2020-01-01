@@ -717,7 +717,7 @@ section.footer .contact-info p.p3{
 }
 section.footer .contact-info p.p4 {
 	padding:0;
-	display:block;
+	display: inline-block;
 	vertical-align: middle;
 	font-weight: 300;
 	font-size:16px;
@@ -1268,7 +1268,8 @@ section.footer .contact-info i {
     margin: 10px 0px 11px 25px;
 }
 section.footer .contact-info p.p4 {
-	margin: -27px 0 0 62px;
+	/* margin: -27px 0 0 62px; */
+	margin: 0 -10px 0 15px;
 }
 }
 
@@ -1544,7 +1545,8 @@ section.footer .contact-info p.p3 {
 	font-size:15px;
 }
 section.footer .contact-info p.p4 {
-    margin: -24px 0 0 62px;
+	/* margin: -24px 0 0 62px; */
+	margin: 0 -10px 0 15px;
 	font-size:15px;
 }
 .footer-center p, .footer-right p {
@@ -1663,7 +1665,8 @@ section.footer .contact-info p.p3 {
 }
 section.footer .contact-info p.p4 {
 	font-size:15px;
-	margin: -23px 0 0 60px;
+	/* margin: -23px 0 0 60px; */
+	margin: 0 -10px 0 15px;
 }
 .footer-center p, .footer-right p {
 	font-size:14px;
